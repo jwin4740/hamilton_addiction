@@ -1,0 +1,15 @@
+.criteriaContainer{
+    border: solid 1px black;
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+.criteriaLeft{
+    text-align: left;
+}
+
+.criteriaGif{
+    border-radius: 3px;
+    margin: 5px;
+
+}
